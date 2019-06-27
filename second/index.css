@@ -1,0 +1,57 @@
+.top-box {
+    border: black solid;
+    height: 18vh;
+    margin: 2vh 2vw;
+}
+.vert-rect {
+    background: rgb(132, 67, 185);
+    height: 65%;
+    width: 3%;
+    margin: 50px 1px 2px 8px;
+    display: inline-block;
+    
+}
+.green-rect {
+    background: green;
+    height: 90%;
+    width: 25%;
+    display: inline-block;
+    margin-left: 40px;
+}
+.circle {
+    background: lightblue;
+    height: 155px;
+    width: 155px;
+    display: inline-block;
+    margin-left: 40px;
+    border-radius: 50%;
+}
+.mid-box {
+    border: black dotted;
+    height: 25vh;
+    margin: 2vh 2vw;
+}
+.yeller-rect {
+    width: 90%;
+    height: 80%;
+    background: lightyellow;
+    box-shadow: 10px 10px rgb(90, 88, 88);
+    margin: 15px auto;
+    
+}
+.bottom-box {
+    border: lightgray solid 1px;
+    box-shadow: 2px 2px lightgray;
+    height: 40vh;
+    margin: 2vh 30vw;
+    
+}
+div p {
+    margin: 17vh;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 10px;
+    color: purple;
+}
